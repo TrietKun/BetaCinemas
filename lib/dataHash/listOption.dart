@@ -5,7 +5,7 @@ class ListOptions {
   static List<Map<String, dynamic>> listOptions = [
     {
       "name": "Vouchers Miễn Phí",
-      "icon": Icons.ac_unit,
+      "icon": Icons.discount,
       "color": Colors.blue.shade300
     },
     {
