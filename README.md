@@ -18,5 +18,8 @@ Chào mừng bạn đến với ứng dụng đặt vé xem phim của BETA! Đ�
 5. Thanh toán vé xem phim.
 6. Xem lại thông tin vé đã đặt và lịch chiếu.
 
-<img src="../beta/assets/imgReadme/1.png" alt="Movie Poster">
-
+<div style="white-space: nowrap;">
+    <img src="assets/imgReadme/1.png" alt="Movie Poster" style="width: 200px; height: auto; display: inline-block; margin-right: 20px;">
+    <img src="assets/imgReadme/2.png" alt="Movie Poster" style="width: 200px; height: auto; display: inline-block;">
+    <img src="assets/imgReadme/3.png" alt="Movie Poster" style="width: 200px; height: auto; display: inline-block;">
+</div>
