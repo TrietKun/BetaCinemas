@@ -94,6 +94,8 @@ flutter:
     - assets/images/tt5.png
     - assets/images/tt6.png
     - assets/images/tt7.png
+    - assets/images/td.png
+    - assets/images/td2.png
 
   # To add assets to your application, add an assets section, like this:
   # assets:
